@@ -1,0 +1,13 @@
+.search {
+  margin-bottom: 2%;
+  max-width: 300px;
+}
+.table th svg {
+  cursor: pointer;
+}
+tr.selected {
+  background-color: #ddd;
+}
+.red {
+  color: #dc3545;
+}

@@ -1,0 +1,10 @@
+.modal {
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.modal .modal-dialog {
+  position: relative;
+  top: 50%;
+  bottom: 50%;
+  transform: translate(0, -50%) !important;
+}
